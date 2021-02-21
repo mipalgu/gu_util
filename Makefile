@@ -51,4 +51,8 @@ cross-install: cross-local
 .  endfor
 .endif
 
+install-local: install
+
+cross-install-local: cross-install
+
 .include "../../mk/mipal.mk"		# comes last!
