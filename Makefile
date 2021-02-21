@@ -25,7 +25,9 @@ install: host-local
 .else
 install: cross-local
 .endif
+.if !exists(${DST:Q}/include)
 	mkdir -p -m 0755 ${DST:Q}/include
+.endif
 	mkdir -p -m 0755 ${DST:Q}/lib
 	cd ${BUILDDIR}-local && \
 	install -m 0755 *${SOEXT}* ${DST:Q}/lib
