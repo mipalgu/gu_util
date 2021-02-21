@@ -28,7 +28,9 @@ install: cross-local
 .if !exists(${DST:Q}/include)
 	mkdir -p -m 0755 ${DST:Q}/include
 .endif
+.if !exists(${DST:Q}/lib)
 	mkdir -p -m 0755 ${DST:Q}/lib
+.endif
 	cd ${BUILDDIR}-local && \
 	install -m 0755 *${SOEXT}* ${DST:Q}/lib
 .for hdr in ${UTIL_HDRS}
