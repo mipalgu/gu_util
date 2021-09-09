@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>gu_util: Main Page</title>
+<title>gu_util: gu_util</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -61,10 +61,29 @@ $(function() {
 </iframe>
 </div>
 
-<div class="header">
-  <div class="headertitle"><div class="title">gu_util Documentation</div></div>
+<div><div class="header">
+  <div class="headertitle"><div class="title">gu_util </div></div>
 </div><!--header-->
 <div class="contents">
+<div class="toc"><h3>Table of Contents</h3>
+<ul><li class="level1"><a href="#autotoc_md0">Prerequisites</a></li>
+<li class="level1"><a href="#autotoc_md1">Building</a></li>
+</ul>
+</div>
+<div class="textblock"><p ><a class="anchor" id="mainpage"></a></p>
+<p >A simple convenience library for POSIX C/C++ code.</p>
+<h1><a class="anchor" id="autotoc_md0"></a>
+Prerequisites</h1>
+<p >You need a posix system a C/C++ compiler, <a href="https://cmake.org">cmake</a>, and a build system supported by <a href="https://cmake.org">cmake</a>, such as <a href="https://ninja-build.org">Ninja</a> or <a href="https://www.gnu.org/software/make/">gmake</a>.</p>
+<h1><a class="anchor" id="autotoc_md1"></a>
+Building</h1>
+<p >To build, you simply create a build directory (e.g. <code>build.ninja</code>) using <a href="https://cmake.org">cmake</a>, then use your build system to build and install. Here is an example using <a href="https://ninja-build.org">Ninja</a>: </p><pre class="fragment">mkdir ../build.ninja
+cd ../build.ninja
+cmake -G Ninja ../gu_util
+ninja
+ninja install
+</pre><p> If you require root permissions, run <code>ninja install</code> as root, e.g. by using <a href="https://www.sudo.ws">sudo</a>: </p><pre class="fragment">sudo ninja install
+</pre> </div></div><!-- PageDoc -->
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
