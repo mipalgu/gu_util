@@ -11,6 +11,8 @@ ALL_TARGETS=host-local robot-local analyse
 
 CATKIN_COMPILE_UTIL=YES
 
+DOC_HDRS=mainpage.md
+
 .include "../../mk/c++11.mk"   	    	# use C++11
 .include "../../mk/util.mk"		# required for gu_util.h/.cc
 
