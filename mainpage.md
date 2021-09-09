@@ -1,4 +1,4 @@
-gu_util
+gu_util {#mainpage}
 ===================
 \tableofcontents
 
