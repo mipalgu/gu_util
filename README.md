@@ -3,7 +3,7 @@ gu_util
 
 A simple convenience library for POSIX C/C++ code.
 
-# Online Documentation
+## Online Documentation
 
  * [Files](https://mipalgu.github.io/gu_util/files.html)
    - [gu_util.h](https://mipalgu.github.io/gu_util/gu__util_8h.html)
@@ -12,14 +12,14 @@ A simple convenience library for POSIX C/C++ code.
    - [Functions](https://mipalgu.github.io/gu_util/globals_func.html)
    - [Macros](https://mipalgu.github.io/gu_util/globals_defs.html)
 
-# Prerequisites
+## Prerequisites
 
 You need a posix system a C/C++ compiler, [cmake](https://cmake.org),
 and a build system supported by [cmake](https://cmake.org), such as
 [Ninja](https://ninja-build.org) or
 [gmake](https://www.gnu.org/software/make/).
 
-# Building
+## Building
 
 To build, you simply create a build directory (e.g. `build.ninja`)
 using [cmake](https://cmake.org), then use your build system to
