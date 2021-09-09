@@ -1,4 +1,4 @@
-[gu_util](https://github.com/mipalgu/gu_util)
+# [gu_util](https://github.com/mipalgu/gu_util)
 ===================
 \tableofcontents
 
