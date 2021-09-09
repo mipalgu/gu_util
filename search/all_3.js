@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['bit_5farray_5fproperty_0',['BIT_ARRAY_PROPERTY',['../gu__util_8h.html#a99016273b341527e9cc3b5adf91bc095',1,'gu_util.h']]],
-  ['bit_5farray_5fproperty_5fdeclaration_1',['BIT_ARRAY_PROPERTY_DECLARATION',['../gu__util_8h.html#abe8bd4b3eed1043e7cc855ec2271605c',1,'gu_util.h']]],
-  ['bit_5farray_5fproperty_5fgetter_2',['BIT_ARRAY_PROPERTY_GETTER',['../gu__util_8h.html#a2fd065d78c05bee1ee20034021e360a7',1,'gu_util.h']]],
-  ['bit_5farray_5fproperty_5fsetter_3',['BIT_ARRAY_PROPERTY_SETTER',['../gu__util_8h.html#a5024984c81f86bfe2c6a8fff75b6a892',1,'gu_util.h']]],
-  ['bit_5fdeclaration_4',['BIT_DECLARATION',['../gu__util_8h.html#a95f55d2bb604d5c3d23c256cc24e041e',1,'gu_util.h']]],
-  ['bit_5fgetter_5',['BIT_GETTER',['../gu__util_8h.html#a690d253927aeaa90d77920b66d3a9581',1,'gu_util.h']]],
-  ['bit_5fproperty_6',['BIT_PROPERTY',['../gu__util_8h.html#ad3420cc8c23f123ca2c4e699759e9a09',1,'gu_util.h']]],
-  ['bit_5fsetter_7',['BIT_SETTER',['../gu__util_8h.html#a7c8c5d07a065308b825b99f8573f1ada',1,'gu_util.h']]]
+  ['check_5fenum_0',['CHECK_ENUM',['../gu__util_8h.html#a70a42d4e320c1c741e2cd5f6d1e657f0',1,'gu_util.h']]],
+  ['components_5fof_5fstring_5fseparated_1',['components_of_string_separated',['../gu__util_8cpp.html#ad5913b31b44745ccf23e5b990402381a',1,'components_of_string_separated(const string &amp;str, char sep, bool trim):&#160;gu_util.cpp'],['../gu__util_8h.html#aa8d514d1fcec09e579f255bba77aae85',1,'components_of_string_separated(const std::string &amp;str, char sep=&apos;\n&apos;, bool trim=false):&#160;gu_util.cpp']]],
+  ['concatenate_5fpath_2',['concatenate_path',['../gu__util_8cpp.html#a994be05b6ead097c959537ccbd3d5318',1,'concatenate_path(const char *head, const char *tail):&#160;gu_util.cpp'],['../gu__util_8h.html#a994be05b6ead097c959537ccbd3d5318',1,'concatenate_path(const char *head, const char *tail):&#160;gu_util.cpp']]],
+  ['control_5fbit_3',['CONTROL_BIT',['../gu__util_8h.html#af625cf865850006ca4b9c4f0c6518687',1,'gu_util.h']]],
+  ['controlled_5farray_5fproperty_4',['CONTROLLED_ARRAY_PROPERTY',['../gu__util_8h.html#a355ad87edca40e276386a29bba0c2a2f',1,'gu_util.h']]],
+  ['controlled_5farray_5fproperty_5fsetter_5',['CONTROLLED_ARRAY_PROPERTY_SETTER',['../gu__util_8h.html#a5d11e64eb0dbc1240f77eeef8b379cc4',1,'gu_util.h']]],
+  ['controlled_5fproperty_6',['CONTROLLED_PROPERTY',['../gu__util_8h.html#a68cb91751299decc60f3c22a01e56bc8',1,'gu_util.h']]],
+  ['controlled_5fsetter_7',['CONTROLLED_SETTER',['../gu__util_8h.html#aff77ffab0e0829fb723397dcb8b5331a',1,'gu_util.h']]]
 ];
