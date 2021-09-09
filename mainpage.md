@@ -1,4 +1,4 @@
-gu_util {#mainpage}
+[gu_util](https://github.com/mipalgu/gu_util) {#mainpage}
 ===================
 \tableofcontents
 
