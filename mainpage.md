@@ -4,6 +4,15 @@
 
 A simple convenience library for POSIX C/C++ code.
 
+# Online Documentation
+
+ * [Files](https://mipalgu.github.io/gu_util/files.html)
+   - [gu_util.h](https://mipalgu.github.io/gu_util/gu__util_8h.html)
+   - [gu_util.cpp](https://mipalgu.github.io/gu_util/gu__util_8cpp.html)
+ * [Module](https://mipalgu.github.io/gu_util/globals_defs.html)
+   - [Functions](https://mipalgu.github.io/gu_util/globals_func.html)
+   - [Macros](https://mipalgu.github.io/gu_util/globals_defs.html)
+
 # Prerequisites
 
 You need a posix system a C/C++ compiler, [cmake](https://cmake.org),
