@@ -19,7 +19,7 @@ and a build system supported by [cmake](https://cmake.org), such as
 [Ninja](https://ninja-build.org) or
 [gmake](https://www.gnu.org/software/make/).
 
-## Building
+## Building and Installation
 
 To build, you simply create a build directory (e.g. `build.ninja`)
 using [cmake](https://cmake.org), then use your build system to
